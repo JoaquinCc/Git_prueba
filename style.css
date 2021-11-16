@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	list-style: none;
+	text-decoration: none;
+}
+.flex{
+	display: flex;
+	justify-content: space-around;
+}
+.content{
+
+	background: #272727;
+	color: white;
+	padding: 2rem;
+	margin: 1rem;
+	width: 30%;	
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card{
+	margin: auto;
+	padding: 2rem;
+	width: 90%;
+	background: #272727;
+	color: white;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
